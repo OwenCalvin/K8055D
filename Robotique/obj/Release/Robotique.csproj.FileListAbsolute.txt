@@ -1,0 +1,16 @@
+\\s2.rpn.ch\home\CPLN\Eleves\ET\GombasOw\_CPLN\Informatique\Ateliers\Programmation\2A3S\Tellan\OwenGombas_K8055\K8055\Robotique\bin\Release\Robotique.exe.config
+\\s2.rpn.ch\home\CPLN\Eleves\ET\GombasOw\_CPLN\Informatique\Ateliers\Programmation\2A3S\Tellan\OwenGombas_K8055\K8055\Robotique\bin\Release\ico.ico
+\\s2.rpn.ch\home\CPLN\Eleves\ET\GombasOw\_CPLN\Informatique\Ateliers\Programmation\2A3S\Tellan\OwenGombas_K8055\K8055\Robotique\bin\Release\Robotique.exe
+\\s2.rpn.ch\home\CPLN\Eleves\ET\GombasOw\_CPLN\Informatique\Ateliers\Programmation\2A3S\Tellan\OwenGombas_K8055\K8055\Robotique\bin\Release\Robotique.pdb
+\\s2.rpn.ch\home\CPLN\Eleves\ET\GombasOw\_CPLN\Informatique\Ateliers\Programmation\2A3S\Tellan\OwenGombas_K8055\K8055\Robotique\obj\Release\Robotique.csprojResolveAssemblyReference.cache
+\\s2.rpn.ch\home\CPLN\Eleves\ET\GombasOw\_CPLN\Informatique\Ateliers\Programmation\2A3S\Tellan\OwenGombas_K8055\K8055\Robotique\obj\Release\MainWindow.g.cs
+\\s2.rpn.ch\home\CPLN\Eleves\ET\GombasOw\_CPLN\Informatique\Ateliers\Programmation\2A3S\Tellan\OwenGombas_K8055\K8055\Robotique\obj\Release\App.g.cs
+\\s2.rpn.ch\home\CPLN\Eleves\ET\GombasOw\_CPLN\Informatique\Ateliers\Programmation\2A3S\Tellan\OwenGombas_K8055\K8055\Robotique\obj\Release\Robotique_Content.g.cs
+\\s2.rpn.ch\home\CPLN\Eleves\ET\GombasOw\_CPLN\Informatique\Ateliers\Programmation\2A3S\Tellan\OwenGombas_K8055\K8055\Robotique\obj\Release\Robotique_MarkupCompile.cache
+\\s2.rpn.ch\home\CPLN\Eleves\ET\GombasOw\_CPLN\Informatique\Ateliers\Programmation\2A3S\Tellan\OwenGombas_K8055\K8055\Robotique\obj\Release\Robotique_MarkupCompile.lref
+\\s2.rpn.ch\home\CPLN\Eleves\ET\GombasOw\_CPLN\Informatique\Ateliers\Programmation\2A3S\Tellan\OwenGombas_K8055\K8055\Robotique\obj\Release\MainWindow.baml
+\\s2.rpn.ch\home\CPLN\Eleves\ET\GombasOw\_CPLN\Informatique\Ateliers\Programmation\2A3S\Tellan\OwenGombas_K8055\K8055\Robotique\obj\Release\Robotique.g.resources
+\\s2.rpn.ch\home\CPLN\Eleves\ET\GombasOw\_CPLN\Informatique\Ateliers\Programmation\2A3S\Tellan\OwenGombas_K8055\K8055\Robotique\obj\Release\Robotique.Properties.Resources.resources
+\\s2.rpn.ch\home\CPLN\Eleves\ET\GombasOw\_CPLN\Informatique\Ateliers\Programmation\2A3S\Tellan\OwenGombas_K8055\K8055\Robotique\obj\Release\Robotique.csproj.GenerateResource.Cache
+\\s2.rpn.ch\home\CPLN\Eleves\ET\GombasOw\_CPLN\Informatique\Ateliers\Programmation\2A3S\Tellan\OwenGombas_K8055\K8055\Robotique\obj\Release\Robotique.exe
+\\s2.rpn.ch\home\CPLN\Eleves\ET\GombasOw\_CPLN\Informatique\Ateliers\Programmation\2A3S\Tellan\OwenGombas_K8055\K8055\Robotique\obj\Release\Robotique.pdb
